@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fresh 2 Home - E-commerce Grocery Website
 
 A modern e-commerce platform for fresh groceries built with React, TypeScript, and Supabase.
@@ -65,3 +66,6 @@ The project uses Supabase as the backend. The database schema includes:
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+=======
+# Fresh-2-Home
+>>>>>>> 9c4fe10ee8a1df3b1192da8c9aea77437d208773
